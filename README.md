@@ -2,7 +2,7 @@
     <h3>Green-bot</h3>
         If you liked this repository, feel free to leave a star ⭐ and follow me, it supports me a lot! Thanks you!
     <br><br>
-    <p>Green-bot is a Free Discord Music bot that can play music right into your discord server! The bot does not support youtube, deezer or spotiy.
+    <p>Green-bot is a Free Discord Music bot that can play music right into your discord server! The bot does not support youtube, deezer or spotify.
   <br> 
     </p>
     <br>
@@ -92,7 +92,7 @@ Then, download the files and open them with Visual Studio code (code.visualstudi
 
 __Step 2.__
 When your terminal is created, write `npm install` in your terminal to download all the modules.
-⚠ the bot won't work if you don't italian the modules!
+⚠ the bot won't work if you don't install the modules!
 If you encounter any error, make you sure that you have the latest version of nodejs or ask in the discord server.
 
 __Step 3.__
